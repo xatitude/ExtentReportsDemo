@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="11229" started-at="2017-11-26T15:41:57Z" finished-at="2017-11-26T15:42:08Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="11229" started-at="2017-11-26T15:41:57Z" finished-at="2017-11-26T15:42:08Z">
+      <class name="extent.ExtentDemo">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:extent.ExtentDemo@5b275dab]" name="beforeSuite" is-config="true" duration-ms="126" started-at="2017-11-26T21:11:57Z" finished-at="2017-11-26T21:11:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:extent.ExtentDemo@5b275dab]" name="beforeMethod" is-config="true" duration-ms="3332" started-at="2017-11-26T21:11:57Z" finished-at="2017-11-26T21:12:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void extent.ExtentDemo.TestCase1()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TestCase1()[pri:0, instance:extent.ExtentDemo@5b275dab]" name="TestCase1" duration-ms="4206" started-at="2017-11-26T21:12:00Z" finished-at="2017-11-26T21:12:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:extent.ExtentDemo@5b275dab]" name="afterMethod" is-config="true" duration-ms="492" started-at="2017-11-26T21:12:04Z" finished-at="2017-11-26T21:12:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:extent.ExtentDemo@5b275dab]" name="beforeMethod" is-config="true" duration-ms="2855" started-at="2017-11-26T21:12:05Z" finished-at="2017-11-26T21:12:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void extent.ExtentDemo.TestCase2()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TestCase2()[pri:0, instance:extent.ExtentDemo@5b275dab]" name="TestCase2" duration-ms="1" started-at="2017-11-26T21:12:08Z" finished-at="2017-11-26T21:12:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase2 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:extent.ExtentDemo@5b275dab]" name="afterMethod" is-config="true" duration-ms="329" started-at="2017-11-26T21:12:08Z" finished-at="2017-11-26T21:12:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:extent.ExtentDemo@5b275dab]" name="afterSuite" is-config="true" duration-ms="322" started-at="2017-11-26T21:12:08Z" finished-at="2017-11-26T21:12:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- extent.ExtentDemo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
